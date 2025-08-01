@@ -2,7 +2,7 @@
   "name": "my-ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sangathamizhan1810.github.io/4wProject",
+  "homepage": "https://sangathamizhan1810.github.io/4wProject", 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
